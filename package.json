@@ -1,0 +1,13 @@
+{
+  "name": "my-lib-name",
+  "version": "1.0.0",
+  "description": "Does things",
+  "main": "adapter.js",
+  "dependencies": {
+      "node-getopt": "0.3.2",
+      "json-schema-traverse": ">= 0.1.0"
+  },
+
+  "repository": "https://github.com/github/dependency-graph-api",
+  "license": "MIT"
+}
