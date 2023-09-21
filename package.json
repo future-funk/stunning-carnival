@@ -4,7 +4,7 @@
   "description": "Does things",
   "main": "adapter.js",
   "dependencies": {
-    "@redwoodjs/core": "^4.2.0"
+    "@redwoodjs/core": "^6.3.0"
   },
   "repository": "https://github.com/github/dependency-graph-api",
   "license": "MIT"
